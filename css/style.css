@@ -195,7 +195,7 @@ span {
     left: 257px;
     line-height: 27px;
     font-size: 1.1vw;
-    margin: 0 48% 0 0;
+    margin: 0 47% 0 0;
 
 }
 
@@ -212,7 +212,7 @@ span {
 .about__img {
     width: 61vw;
     display: block;
-    transform: translate(-70%,10%);
+    transform: translate(-64%,10%);
 }
 
 /* ここからservice */
